@@ -4,8 +4,6 @@
  
  
 
-Java based data security application to conceal the existence of user data from 3rd party. 
-
 Encryption is one of the widely used techniques to ensure secure communication, however, sending encrypted messages often draw eavesdropper's attention to intercept the messages and reveal the original message. This project implements Steganography, which focuses on embedding secret information into the digital images and media without drawing any attention of eavesdropper to think that such information is embedded. 
 
 Supports various image and media formats. Includes features of data compression, data validation and sharing encrypted files via socket programming. 
