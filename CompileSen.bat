@@ -1,0 +1,2 @@
+javac sen.java
+pause

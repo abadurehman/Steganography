@@ -1,0 +1,9 @@
+CRC VERIFICATION
+
+
+This process accepts the file name from the 
+user and verifies whether any hackers 
+interfered with the file during transmission.
+ If any malicious activities present during
+ transmission, the process will notify 
+it and stops the further processing.	

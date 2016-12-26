@@ -1,0 +1,43 @@
+EMBED  &  DE-MBED
+
+
+This module deals with identifying the data and the 
+image to embed the data into the image 
+before it can be transmitted. This is then followed 
+by compression to increase the rate of 
+transfer of files between the networks.
+
+The module opens by prompting the user to identify 
+the file that need to be transmitted
+ across the network. The file is then selected using 
+the GUI interface provided through
+ JAVA. The module then prompts to identify the image
+ file, which needs to house the data 
+file. The developed system will provide support to
+ select and embed data into .bmp & .jpg
+ files. The selected image file is then previewed 
+before it can house the data. The data is 
+then embedded into the image file in such a way 
+that the image file is not corrupted; at the 
+same time the data is secure. The image if hacked 
+or interrupted by a third party can be 
+viewed in any browser without actually displaying 
+the data. The data on the receivers end is
+ isolated and removed from the image.
+The module deals with identifying the hidden data 
+in the image. The module receives the
+ image file . The image file is then browsed to 
+remove the associated data. The data is then
+ removed from the image file.
+
+
+
+This process plays the vital role in the steganography part.
+ Here the package accepts the Image file name and Data file 
+name from the user. 
+
+The package embed the compressed Data file with the Image
+ file specified by the user, in such a way that the image
+ will not be distributed after the embed process.
+ The embedding process is graphically simulated with 
+the help of progress bar.

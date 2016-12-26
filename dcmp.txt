@@ -1,0 +1,10 @@
+DECOMPRESSION
+
+
+
+This utility provides the facility of De
+ compressing the compressed files. It accepts
+ the compressed file name from the user and 
+produces the corresponding text file.
+ The package simulates the De compression 
+process with the help of progress bar.

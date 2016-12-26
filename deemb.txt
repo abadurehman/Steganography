@@ -1,0 +1,12 @@
+DE-EMBED
+
+
+
+
+This process plays an alternate role against the embed.
+ Here the package accepts the Image file name that 
+present in the system. The process should checks for the presence of data, if the presence of data is identified, then the process
+ request the path of the destination file (i.e., Data 
+file with .CMP extension) for the retrieval of data 
+from the Image file. Here all the process is 
+graphically simulated with the help of progress bar.

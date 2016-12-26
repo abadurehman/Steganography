@@ -1,0 +1,14 @@
+COMPRESSION
+
+	
+This utility provides the facility of 
+compressing text files. It accepts the 
+text file name from the user and compresses 
+it with a ratio about 15%. The compressed 
+file will have the same name of the text 
+file with the .CMP extension. The package
+ simulates the compression process with 
+the help of progress bar and gives the 
+detailed report about the compression 
+(i.e., Source file name, Destination 
+file name, sizes, compression ratios etc.,)

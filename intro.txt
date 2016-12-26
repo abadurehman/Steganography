@@ -1,0 +1,61 @@
+INTRODUCTION
+
+
+The system deals with security during transmission
+ of data. Commonly used technologies are 
+cryptography. This system deals with implementing 
+security using Stegnography. In this end user 
+identifies an image which is going to act as the 
+carrier of data. The data file is also selected and 
+then to achieve greater speed of transmission the
+ data file and image file are compressed and sent. 
+Prior to this the data is embedded into the image 
+and then sent. The image if hacked or interpreted 
+by a third party user will open up in any image 
+previewed but not displaying the data. This protects
+the data from being invisible and hence be secure
+ during transmission. The user in the receiving end 
+uses another piece of code to retrieve the data from 
+the image.
+
+
+This project is developed using graphics in ‘JAVA’ 
+language. The options available are displayed in a 
+menu format, like in an online editor. Clicking on 
+any particular menu item through mouse or through
+ keyboard a dropdown menu is displayed, listing all 
+the options available under that menu item and the 
+user can select the needed actions according to their
+ wish. 
+The Menu Bar consists of the following contents
+•	Data
+•	Utility
+•	Help
+•	Exit 
+
+Data	
+	This menu consists of the following submenu content.
+	
+
+	Embed
+	Deembed
+	Authenticate
+
+Utility
+
+	This menu consists of the following submenus
+
+
+	Compression
+	De Compression
+
+Help
+	This menu consists of the following submenus
+	
+
+        About
+	Contents
+	Information
+
+
+

@@ -1,0 +1,6 @@
+CRC GENERATOIN
+
+
+This process accepts the file name from the user
+ and automatically generates the CRC value and 
+attach them to the Data .
